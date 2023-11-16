@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive\Dokumen\stqa\kakulator\kakulator\bin\Debug\netcoreapp3.1\kakulator.exe
+C:\Users\ACER\OneDrive\Dokumen\stqa\kakulator\kakulator\bin\Debug\netcoreapp3.1\kakulator.deps.json
+C:\Users\ACER\OneDrive\Dokumen\stqa\kakulator\kakulator\bin\Debug\netcoreapp3.1\kakulator.runtimeconfig.json
+C:\Users\ACER\OneDrive\Dokumen\stqa\kakulator\kakulator\bin\Debug\netcoreapp3.1\kakulator.runtimeconfig.dev.json
+C:\Users\ACER\OneDrive\Dokumen\stqa\kakulator\kakulator\bin\Debug\netcoreapp3.1\kakulator.dll
+C:\Users\ACER\OneDrive\Dokumen\stqa\kakulator\kakulator\bin\Debug\netcoreapp3.1\kakulator.pdb
+C:\Users\ACER\OneDrive\Dokumen\stqa\kakulator\kakulator\obj\Debug\netcoreapp3.1\kakulator.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Dokumen\stqa\kakulator\kakulator\obj\Debug\netcoreapp3.1\kakulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Dokumen\stqa\kakulator\kakulator\obj\Debug\netcoreapp3.1\kakulator.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Dokumen\stqa\kakulator\kakulator\obj\Debug\netcoreapp3.1\kakulator.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Dokumen\stqa\kakulator\kakulator\obj\Debug\netcoreapp3.1\kakulator.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Dokumen\stqa\kakulator\kakulator\obj\Debug\netcoreapp3.1\kakulator.dll
+C:\Users\ACER\OneDrive\Dokumen\stqa\kakulator\kakulator\obj\Debug\netcoreapp3.1\kakulator.pdb
+C:\Users\ACER\OneDrive\Dokumen\stqa\kakulator\kakulator\obj\Debug\netcoreapp3.1\kakulator.genruntimeconfig.cache

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kakulator", "kakulator\kakulator.csproj", "{DB331240-E2EE-4A8E-A411-AE562B7108A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kakulatorTests1", "kakulatorTests1\kakulatorTests1.csproj", "{AD833D33-44A6-4277-9C0B-CFD7C86FA11E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB331240-E2EE-4A8E-A411-AE562B7108A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB331240-E2EE-4A8E-A411-AE562B7108A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB331240-E2EE-4A8E-A411-AE562B7108A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB331240-E2EE-4A8E-A411-AE562B7108A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD833D33-44A6-4277-9C0B-CFD7C86FA11E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD833D33-44A6-4277-9C0B-CFD7C86FA11E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD833D33-44A6-4277-9C0B-CFD7C86FA11E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD833D33-44A6-4277-9C0B-CFD7C86FA11E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94A21BEA-8E0F-4518-9D9A-D4CBBD7EACB5}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0171zWektmRAaddetd6JfVR8+v3R7Kkx3E6hWOJxGKHhEuMBfdyMuvoT8FzEA8oy80gTUuYE6xc3uttyPe60fg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ACER\\OneDrive\\Dokumen\\stqa\\kakulator\\kakulator\\kakulator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ACER\\.nuget\\packages\\nunit\\4.0.0-beta.1\\nunit.4.0.0-beta.1.nupkg.sha512"
+  ],
+  "logs": []
+}
